@@ -1,1 +1,1 @@
-<img src="https://hbl917070.cf/img/murl/bmgv8BN.jpg" width="100%">
+<img src="https://test.oddstab.cf/r.jpg" width="100%">
