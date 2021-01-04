@@ -1,1 +1,1 @@
-<img src="https://test.oddstab.cf/r.jpg" width="100%">
+<img src="https://test.oddstab.cf/r" width="100%">
