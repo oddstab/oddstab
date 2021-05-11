@@ -1,1 +1,1 @@
-<img src="85672497_p0.jpg" width="100%">
+<img src="genshinimpact_background.jpg" width="100%">
